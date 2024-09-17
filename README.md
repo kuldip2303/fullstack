@@ -1,2 +1,2 @@
 # fullstack
-demo of git and github
+demo of git &amp; github.
